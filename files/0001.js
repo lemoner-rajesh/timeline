@@ -1,0 +1,122 @@
+CDRonJSONPLoad([
+  {
+    "id": 1,
+    "title": "Art Exhibition",
+    "text": "Art event",
+    "fullText": "Details",
+    "categoryId": 17654,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-01 10:00:00",
+    "endDate": "2020-01-01 18:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Music Concert",
+    "text": "Music event",
+    "fullText": "Details",
+    "categoryId": 17653,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-05 18:00:00",
+    "endDate": "2020-01-05 22:00:00"
+  },
+  {
+    "id": 3,
+    "title": "Science Fair",
+    "text": "Science event",
+    "fullText": "Details",
+    "categoryId": 17652,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-10 09:00:00",
+    "endDate": "2020-01-10 15:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Philosophy Talk",
+    "text": "Philosophy event",
+    "fullText": "Details",
+    "categoryId": 17651,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-12 11:00:00",
+    "endDate": "2020-01-12 13:00:00"
+  },
+  {
+    "id": 5,
+    "title": "Art Workshop",
+    "text": "Hands-on art session",
+    "fullText": "Learn painting",
+    "categoryId": 17649,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-15 10:00:00",
+    "endDate": "2020-01-15 16:00:00"
+  },
+  {
+    "id": 6,
+    "title": "Jazz Night",
+    "text": "Smooth jazz",
+    "fullText": "Evening jazz performance",
+    "categoryId": 17650,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-18 19:00:00",
+    "endDate": "2020-01-18 23:00:00"
+  },
+  {
+    "id": 7,
+    "title": "Tech Summit",
+    "text": "Innovation event",
+    "fullText": "Tech discussions",
+    "categoryId": 17652,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-20 09:00:00",
+    "endDate": "2020-01-20 17:00:00"
+  },
+  {
+    "id": 8,
+    "title": "Ethics Seminar",
+    "text": "Philosophy debate",
+    "fullText": "Ethics discussion",
+    "categoryId": 17651,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-22 10:00:00",
+    "endDate": "2020-01-22 12:00:00"
+  },
+  {
+    "id": 9,
+    "title": "Art Festival",
+    "text": "Cultural celebration",
+    "fullText": "Art performances",
+    "categoryId": 17649,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-25 11:00:00",
+    "endDate": "2020-01-25 20:00:00"
+  },
+  {
+    "id": 10,
+    "title": "Rock Concert",
+    "text": "Live band show",
+    "fullText": "Rock music event",
+    "categoryId": 17650,
+    "dateFormat": "auto",
+    "externalLink": "",
+    "media": [],
+    "startDate": "2020-01-28 18:00:00",
+    "endDate": "2020-01-28 23:00:00"
+  }
+])
